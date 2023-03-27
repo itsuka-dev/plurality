@@ -59,6 +59,16 @@ Enhanced UI for ChatGPT API.
 
 #ts #svelte #hasura #docker #stripe #mit
 
+### SlickGPT　![Stars](https://img.shields.io/github/stars/ShipBit/slickgpt)
+
+[Repository](https://github.com/ShipBit/slickgpt) | [Demo](https://slickgpt.vercel.app/)
+
+SlickGPT is a light-weight "use-your-own-API-key" ChatGPT client written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
+
+#ts #svelte #firebase #shareable-link #mit
+
+![Image](https://github.com/ShipBit/slickgpt/raw/main/static/docu/hero-image.png)
+
 ### geppeto　![Stars](https://img.shields.io/github/stars/henrycunh/geppeto) 
 
 [Repository](https://github.com/henrycunh/geppeto) | [Demo](https://geppeto.chat/)
@@ -68,6 +78,16 @@ A beautiful UI for ChatGPT and other conversational models.
 #ts #vue #unlicensed
 
 ![](https://cdn.discordapp.com/attachments/1088960540593901578/1088960540749078538/image.png)
+
+### chatgpt-ui　![Stars](https://img.shields.io/github/stars/dvcrn/chatgpt-ui) 
+
+[Repository](https://github.com/dvcrn/chatgpt-ui)
+
+ChatGPT wrapper with Google OAuth and support for text-davinci-003, written in Elixir + LiveView.
+
+#elixir #liveview #oauth #docker #unlicensed
+
+![Image](https://github.com/dvcrn/chatgpt-ui/raw/main/demo.gif)
 
 ## Browser Extensions
 
@@ -128,10 +148,6 @@ Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux.
 [Repository](https://github.com/joshpauline/chatgpt-mac-shortcut)
 
 A simple shortcut to have access to chatgpt anywhere on your computer.
-
-![Image](https://github.com/joshpauline/chatgpt-mac-shortcut/raw/master/data/shortcut_1.png)
-
-#shortcut #macos #unlicensed
 
 ## Others
 
