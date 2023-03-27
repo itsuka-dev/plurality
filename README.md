@@ -1,6 +1,6 @@
 # Awesome ChatGPT UI
 
-A curated list of open source UI/clients for ChatGPT API, which includes terminal, web/native/smartwatch apps, extensions, editors, bots, AR/VR, etc. Note: I organized these projects based on their Github stars because it's a convenient way to gauge their quality, although it's not accurate at all.
+An (uncurated) list of open source UI/clients for ChatGPT API, which includes terminal, web/native/smartwatch apps, extensions, editors, bots, AR/VR, etc. Note: I organized these projects based on their Github stars because it's a convenient way to gauge their quality, although it's not accurate at all.
 
 **Table of Contents**
 - [Web Apps](#web-apps)
