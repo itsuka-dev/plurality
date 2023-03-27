@@ -41,6 +41,16 @@ Open source ChatGPT UI.
 
 #ts #svelte #mit
 
+### SlickGPT　![Stars](https://img.shields.io/github/stars/ShipBit/slickgpt)
+
+[Repository](https://github.com/ShipBit/slickgpt) | [Demo](https://slickgpt.vercel.app/)
+
+SlickGPT is a light-weight "use-your-own-API-key" ChatGPT client written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
+
+#ts #svelte #firebase #shareable-link #mit
+
+![Image](https://github.com/ShipBit/slickgpt/raw/main/static/docu/hero-image.png)
+
 ### AI Chat Bestie　![Stars](https://img.shields.io/github/stars/KTruong008/aichatbestie)
 
 [Repository](https://github.com/KTruong008/aichatbestie) | [Demo](https://aichatbestie.com)
@@ -73,11 +83,11 @@ A beautiful UI for ChatGPT and other conversational models.
 
 [Repository](https://github.com/dvcrn/chatgpt-ui)
 
-ChatGPT wrapper with Google OAuth and support for text-davinci-003, written in Elixir + LiveView
+ChatGPT wrapper with Google OAuth and support for text-davinci-003, written in Elixir + LiveView.
 
-#elixir #liveview
+#elixir #liveview #oauth #docker #unlicensed
 
-![](https://github.com/dvcrn/chatgpt-ui/raw/main/demo.gif)
+![Image](https://github.com/dvcrn/chatgpt-ui/raw/main/demo.gif)
 
 ## Browser Extensions
 
@@ -123,15 +133,21 @@ Desktop version of ChatGPT with text-to-speech, speech-to-text, keyboard shortcu
 
 ![Image](https://user-images.githubusercontent.com/127208659/227193723-07f2dd92-ce20-4eb8-8c16-d6888c182033.png)
 
-### Chat GPT Mac Shortcut　![Stars](https://img.shields.io/github/stars/joshpauline/chatgpt-mac-shortcut) 
+### GPT Anywhere　![Stars](https://img.shields.io/github/stars/JinayJain/gpt-anywhere) 
 
-A simple shortcut to have access to chatgpt anywhere on your computer.
+[Repository](https://github.com/JinayJain/gpt-anywhere/)
+
+Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux.
+
+![Image](https://github.com//JinayJain/gpt-anywhere/raw/main/assets/readme_example.gif)
+
+#ts #rust #macos #linux #win #gpl
+
+### Chat GPT Mac Shortcut　![Stars](https://img.shields.io/github/stars/joshpauline/chatgpt-mac-shortcut) 
 
 [Repository](https://github.com/joshpauline/chatgpt-mac-shortcut)
 
-![Image](https://github.com/joshpauline/chatgpt-mac-shortcut/raw/master/data/shortcut_1.png)
-
-#shortcut #macos #unlicensed
+A simple shortcut to have access to chatgpt anywhere on your computer.
 
 ## Others
 
@@ -153,3 +169,5 @@ A proof-of-concept ChatGPT client for DOS.
 - https://github.com/cogentapps/awesome-chatgpt-1
 - editor/terminal
     - https://news.ycombinator.com/item?id=35254389
+- WIP
+    - https://github.com/dvcrn/chatgpt-ui (missing demo link)
