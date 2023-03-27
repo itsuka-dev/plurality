@@ -59,16 +59,6 @@ Enhanced UI for ChatGPT API.
 
 #ts #svelte #hasura #docker #stripe #mit
 
-### SlickGPT　![Stars](https://img.shields.io/github/stars/ShipBit/slickgpt)
-
-[Repository](https://github.com/ShipBit/slickgpt) | [Demo](https://slickgpt.vercel.app/)
-
-SlickGPT is a light-weight "use-your-own-API-key" ChatGPT client written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
-
-#ts #svelte #firebase #shareable-link #mit
-
-![Image](https://github.com/ShipBit/slickgpt/raw/main/static/docu/hero-image.png)
-
 ### geppeto　![Stars](https://img.shields.io/github/stars/henrycunh/geppeto) 
 
 [Repository](https://github.com/henrycunh/geppeto) | [Demo](https://geppeto.chat/)
@@ -148,6 +138,10 @@ Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux.
 [Repository](https://github.com/joshpauline/chatgpt-mac-shortcut)
 
 A simple shortcut to have access to chatgpt anywhere on your computer.
+
+![Image](https://github.com/joshpauline/chatgpt-mac-shortcut/raw/master/data/shortcut_1.png)
+
+#shortcut #macos #unlicensed
 
 ## Others
 
