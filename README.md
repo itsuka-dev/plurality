@@ -6,6 +6,7 @@ An (uncurated) list of open source UI/clients for ChatGPT API, which includes te
 - [Web Apps](#web-apps)
 - [Browser Extensions](#browser-extensions)
 - [Desktop Applications](#desktop-applications)
+- [Others](#others)
 
 
 ## Web Apps
@@ -40,6 +41,16 @@ Open source ChatGPT UI.
 
 #ts #svelte #mit
 
+### SlickGPT　![Stars](https://img.shields.io/github/stars/ShipBit/slickgpt)
+
+[Repository](https://github.com/ShipBit/slickgpt) | [Demo](https://slickgpt.vercel.app/)
+
+SlickGPT is a light-weight "use-your-own-API-key" ChatGPT client written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
+
+#ts #svelte #firebase #shareable-link #mit
+
+![Image](https://github.com/ShipBit/slickgpt/raw/main/static/docu/hero-image.png)
+
 ### AI Chat Bestie　![Stars](https://img.shields.io/github/stars/KTruong008/aichatbestie)
 
 [Repository](https://github.com/KTruong008/aichatbestie) | [Demo](https://aichatbestie.com)
@@ -55,6 +66,8 @@ Enhanced UI for ChatGPT API.
 A beautiful UI for ChatGPT and other conversational models.
 
 #ts #vue #unlicensed
+
+![](https://cdn.discordapp.com/attachments/1088960540593901578/1088960540749078538/image.png)
 
 ## Browser Extensions
 
@@ -80,6 +93,16 @@ ChatGPT Desktop Application (Mac, Windows and Linux).
 
 #rust #ts #tauri #macos #linux #win #tts #slash-cmd #agpl
 
+### ChatGPT　![Stars](https://img.shields.io/github/stars/wieslawsoltes/ChatGPT) 
+
+[Repository](https://github.com/wieslawsoltes/ChatGPT)
+
+A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework.
+
+![Image](https://user-images.githubusercontent.com/2297442/224843834-a58190df-3bdb-4722-b737-94e7adc87805.png)
+
+#c-sharp #dotnet #avalonia #web #macos #linux #win #ios #android #mit
+
 ### ChatGPT Desktop　![Stars](https://img.shields.io/github/stars/chatgptui/desktop) 
 
 [Repository](https://github.com/chatgptui/desktop)
@@ -90,6 +113,38 @@ Desktop version of ChatGPT with text-to-speech, speech-to-text, keyboard shortcu
 
 ![Image](https://user-images.githubusercontent.com/127208659/227193723-07f2dd92-ce20-4eb8-8c16-d6888c182033.png)
 
+### GPT Anywhere　![Stars](https://img.shields.io/github/stars/JinayJain/gpt-anywhere) 
+
+[Repository](https://github.com/JinayJain/gpt-anywhere/)
+
+Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux.
+
+![Image](https://github.com//JinayJain/gpt-anywhere/raw/main/assets/readme_example.gif)
+
+#ts #rust #macos #linux #win #gpl
+
+### Chat GPT Mac Shortcut　![Stars](https://img.shields.io/github/stars/joshpauline/chatgpt-mac-shortcut) 
+
+[Repository](https://github.com/joshpauline/chatgpt-mac-shortcut)
+
+A simple shortcut to have access to chatgpt anywhere on your computer.
+
+![Image](https://github.com/joshpauline/chatgpt-mac-shortcut/raw/master/data/shortcut_1.png)
+
+#shortcut #macos #unlicensed
+
+## Others
+
+### doschgpt　![Stars](https://img.shields.io/github/stars/joshpauline/chatgpt-mac-shortcut) 
+
+[Repository]() | [Blog](https://github.com/yeokm1/doschgpt)
+
+A proof-of-concept ChatGPT client for DOS.
+
+![Image](https://github.com/yeokm1/doschgpt/blob/master/images/doschgpt-front-combined.jpg?raw=true)
+
+#cpp #gpl
+
 ## Meta
 
 **TODO**:
@@ -98,3 +153,5 @@ Desktop version of ChatGPT with text-to-speech, speech-to-text, keyboard shortcu
 - https://github.com/cogentapps/awesome-chatgpt-1
 - editor/terminal
     - https://news.ycombinator.com/item?id=35254389
+- WIP
+    - https://github.com/dvcrn/chatgpt-ui (missing demo link)
