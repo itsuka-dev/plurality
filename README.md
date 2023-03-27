@@ -69,6 +69,16 @@ A beautiful UI for ChatGPT and other conversational models.
 
 ![](https://cdn.discordapp.com/attachments/1088960540593901578/1088960540749078538/image.png)
 
+### chatgpt-ui　![Stars](https://img.shields.io/github/stars/dvcrn/chatgpt-ui) 
+
+[Repository](https://github.com/dvcrn/chatgpt-ui)
+
+ChatGPT wrapper with Google OAuth and support for text-davinci-003, written in Elixir + LiveView
+
+#elixir #liveview
+
+![](https://github.com/dvcrn/chatgpt-ui/raw/main/demo.gif)
+
 ## Browser Extensions
 
 ### ChatHub　![Stars](https://img.shields.io/github/stars/chathub-dev/chathub)
