@@ -40,6 +40,16 @@ An open source ChatGPT UI.
 
 ![Image](https://github.com/mckaywrigley/chatbot-ui/blob/main/public/screenshot.png?raw=true)
 
+### OpenPlayground　![Stars](https://img.shields.io/github/stars/nat/openplayground)
+
+[Repository](https://github.com/nat/openplayground) | [Demo](https://nat.dev/)
+
+An LLM playground you can run on your laptop.
+
+#ts #react #python #flask #multi-model #local-model #token-probability #split-screen #diff #mit
+
+https://user-images.githubusercontent.com/111631/227399583-39b23f48-9823-4571-a906-985dbe282b20.mp4
+
 ### Better ChatGPT　![Stars](https://img.shields.io/github/stars/ztjhz/BetterChatGPT)
 
 [Repository](https://github.com/ztjhz/BetterChatGPT) | [Demo](http://bettergpt.chat/)
@@ -369,8 +379,6 @@ Unsorted and work-in-progress content.
 - authored by GPT-4
     - [ChatGPT-Simple](https://github.com/logankilpatrick/chatgpt-simple)
     - [Easy Chat](https://github.com/paul-gauthier/easy-chat)
-- not open source yet
-    - [OpenPlayground](https://nat.dev/)
 - non-english
     - [Feishu OpenAI](https://github.com/Leizhenpeng/feishu-chatgpt)
         - features: group chat, character & situation mode, auto-clear history
