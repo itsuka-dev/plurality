@@ -95,6 +95,7 @@ Note 2: Due to difficulties with loading and navigating a large list on GitHub (
 -   [ChatGPT Voice Chatbot Telegram](https://github.com/shamspias/chatgpt-voice-chatbot-telegram)
 -   [SonicAI](https://github.com/shamspias/whatsapp-voice-gpt)
 -   [Telegram ChatGPT Bot](https://github.com/codextde/telegram-chatgpt)
+-   [DiscordGPT Bot](https://github.com/jtac/DiscordGPT)
 
 ## Terminals
 
