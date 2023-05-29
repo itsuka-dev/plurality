@@ -46,6 +46,7 @@ Note 2: Due to difficulties with loading and navigating a large list on GitHub (
 -   [AI Chat Bestie](https://github.com/KTruong008/aichatbestie)
 -   [geppeto](https://github.com/henrycunh/geppeto)
 -   [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui)
+-   [WhisperChat](https://github.com/athrael-soju/whisperChat/)
 -   [my-chat-gpt](https://github.com/michaelnutt02/my-chat-gpt)
 -   [vanilla-chatgpt](https://github.com/casualwriter/vanilla-chatgpt)
 -   [ChatCraft.org](https://github.com/tarasglek/chatcraft.org)
@@ -56,6 +57,7 @@ Note 2: Due to difficulties with loading and navigating a large list on GitHub (
 -   [ChatGPT Box](https://github.com/josStorer/chatGPTBox)
 -   [WebChatGPT](https://github.com/qunash/chatgpt-advanced)
 -   [ChatHub](https://github.com/chathub-dev/chathub)
+-   [Talk to ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt)
 -   [chatgpt-react](https://github.com/shezhangzhang/chatgpt-react)
 
 ## Desktop Apps
@@ -78,11 +80,13 @@ Note 2: Due to difficulties with loading and navigating a large list on GitHub (
 -   [ChatGPT Android](https://github.com/skydoves/chatgpt-android)
 -   [ChatARKit](https://github.com/trzy/ChatARKit)
 -   [Chat Answer](https://github.com/bapaws/answer)
+-   [DynamicGPTChat](https://github.com/phazei/dynamicGPTChat)
 
 ## Shortcuts
 
 -   [S-GPT](https://www.icloud.com/shortcuts/448738a9ae9b4a5b9a647cb29ea3cfc6) & [S-GPT Encoder](https://www.icloud.com/shortcuts/280fb63a6475413ba1236fc22b576258)
 -   [Hey GPT](https://www.icloud.com/shortcuts/0cc3e4195dfe46ffb901cb3348bc3c1e)
+-   [Image Chat](https://www.icloud.com/shortcuts/28898ebcee06485db26185ab6640a1a3)
 -   [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)
 -   [Chat GPT Mac Shortcut](https://github.com/joshpauline/chatgpt-mac-shortcut)
 
@@ -134,6 +138,7 @@ curl "https://api.openai.com/v1/chat/completions" \
 -   [IPython ChatGPT extension](https://github.com/santiagobasulto/ipython-gpt)
 -   [ChatdollKit](https://github.com/uezo/ChatdollKit)
 -   [Atom the GPT Assistant](https://github.com/Seitk/gpt-assistant)
+-   [BMO Voice Assistant](https://github.com/rogeriochaves/bmo)
 -   [Alexa GPT](https://github.com/kalishcode/alexa-gpt)
 
 ## Contributing
@@ -164,7 +169,7 @@ Unsorted and work-in-progress content.
 
 out-of-scope
 
--   non OpenAI clients
+-   non OpenAI models
     -   local LLM
         -   https://github.com/oobabooga/text-generation-webui
         -   https://github.com/ohmplatform/FreedomGPT
@@ -191,6 +196,8 @@ out-of-scope
             -   demo: https://huggingface.co/chat
     -   bard
         -   https://github.com/shadowfax92/BardGPT
+    -   huggingface
+        -   https://github.com/camille-vanhoffelen/langchain-huggingGPT
 -   UI on top of another client/service
     -   https://github.com/zoan37/robot-companion (window.ai)
 -   authored by GPT-4
@@ -208,6 +215,7 @@ out-of-scope
     -   [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
     -   [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
     -   [ChatGPT Admin Web](https://github.com/AprilNEA/ChatGPT-Admin-Web)
+    -   [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)
 -   API only
     -   https://github.com/acheong08/EdgeGPT
 
