@@ -1,10 +1,10 @@
-# Awesome ChatGPT UI
+# Plurality
+
+**Update**: I have moved most of the contents to [my personal website](http://atorie.xyz/crafts/plurality) ([raw data](https://github.com/itsuka-dev/atorie/blob/master/src/components/crafts/plurality/project/data.ts)) to keep this page lightweight.
 
 A cornucopia of open source UIs built with ChatGPT API, featuring terminal, web/desktop/smartwatch apps, extensions, editor plugins, chat app bots, AR/VR apps, and more.
 
-Note 1: These projects have been arranged according to their Github stars, as this provides a useful approximation of their adoption and popularity. However, this may not always be an accurate representation of their quality.
-
-Note 2: Due to difficulties with loading and navigating a large list on GitHub (80mb+), this repository's full content has been moved to [a separate website](http://atorie.xyz/crafts/plurality) ([raw data](https://github.com/itsuka-dev/atorie/blob/master/src/components/crafts/plurality/project/data.ts)).
+**Note**: These projects have been arranged according to their Github stars, as this provides a useful approximation of their adoption and popularity. However, this may not always be an accurate representation of their quality.
 
 **Table of Contents**
 
@@ -211,6 +211,8 @@ out-of-scope
     -   [ChatGPT Tauri](https://github.com/pljhonglu/ChatGPT-T)
     -   [pandora](https://github.com/pengzhile/pandora)
     -   [DB-GPT](https://github.com/csunny/DB-GPT)
+    -   [chatkun](https://github.com/mahm/chatkun)
+    -   [tarsumy-gptchatbot](https://github.com/tarsumae/tarsumy-gptchatbot)
 -   non-english readme
     -   [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
     -   [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
