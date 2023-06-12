@@ -36,6 +36,7 @@ A cornucopia of open source UIs built with ChatGPT API, featuring terminal, web/
 -   [Anse](https://github.com/anse-app/anse)
 -   [ChatGPT-web](https://github.com/Niek/chatgpt-web)
 -   [PatrikZero's ChatGPT UI](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI)
+-   [Next.js AI Chatbot](https://github.com/vercel-labs/ai-chatbot)
 -   [SlickGPT](https://github.com/ShipBit/slickgpt)
 -   [TurboGPT.ai](https://github.com/mikebpech/turbogpt.ai)
 -   [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui)
@@ -89,6 +90,7 @@ A cornucopia of open source UIs built with ChatGPT API, featuring terminal, web/
 -   [Image Chat](https://www.icloud.com/shortcuts/28898ebcee06485db26185ab6640a1a3)
 -   [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri)
 -   [Chat GPT Mac Shortcut](https://github.com/joshpauline/chatgpt-mac-shortcut)
+-   [Let's Chat](https://icloud.com/shortcuts/8c4c98e19aab4d33bfd5f1136c77f500)
 
 ## Chat App Bots
 
@@ -198,6 +200,8 @@ out-of-scope
         -   https://github.com/shadowfax92/BardGPT
     -   huggingface
         -   https://github.com/camille-vanhoffelen/langchain-huggingGPT
+    -   others
+        -   https://github.com/imClumsyPanda/langchain-ChatGLM/blob/master/README_en.md
 -   UI on top of another client/service
     -   https://github.com/zoan37/robot-companion (window.ai)
 -   authored by GPT-4
@@ -213,6 +217,7 @@ out-of-scope
     -   [DB-GPT](https://github.com/csunny/DB-GPT)
     -   [chatkun](https://github.com/mahm/chatkun)
     -   [tarsumy-gptchatbot](https://github.com/tarsumae/tarsumy-gptchatbot)
+    -   [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)
 -   non-english readme
     -   [ChatGPT Web](https://github.com/Chanzhaoyu/chatgpt-web)
     -   [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)
@@ -257,3 +262,5 @@ TODO or WONT DO:
         -   [AICommand](https://github.com/keijiro/AICommand)
         -   [AIShader](https://github.com/keijiro/AIShader)
     -   [pdfGPT](https://github.com/bhaskatripathi/pdfGPT)
+    -   [Graphic Development Interface](https://github.com/dht/gdi)
+    -   [OpenChat](https://github.com/openchatai/OpenChat)
